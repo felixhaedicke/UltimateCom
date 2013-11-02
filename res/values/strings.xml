@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="connect">Connect</string>
+    <string name="send">Send</string>
+    <string name="tty_explaination">Use a Unix TTY device</string>
+    <string name="usb_explaination">Use a USB to serial adapter</string>
+    <string name="ioio_explaination">Use a IOIO board UART</string>
+    <string name="tcp_explaination">Use a TCP network socket</string>
+    <string name="bluetooth_explaination">Use a Bluetooth RFCOMM device</string>
+    <string name="usb_device_caption">USB device:</string>
+    <string name="baud_rate_caption">Baud rate:</string>
+    <string name="rx_pin_caption">RX pin:</string>
+    <string name="tx_pin_caption">TX pin:</string>
+    <string name="bluetooth_device_caption">Bluetooth device:</string>
+    <string name="device_file_caption">Device file:</string>
+    <string name="host_caption">Host:</string>
+    <string name="port_caption">Port:</string>
+    <string name="device_file_hint">E. g. /dev/ttyS0</string>
+    <string name="host_hint">Host name or IP address</string>
+    <string name="data_to_transmit_hint">Data to transmit</string>
+    <string name="sent_data_explaination">Sent data:</string>
+    <string name="received_data_explaination">Received data:</string>
+
+</resources>
